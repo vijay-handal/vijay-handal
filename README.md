@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Spring-Boot, Angular, Bootstrap**
 
-- 👨‍💻 All of my projects are available at [https://vijay9969.github.io/](https://vijay9969.github.io/)
+- 👨‍💻 All of my projects are available at [https://vijay9969.github.io/](https://vijay-handal.github.io/)
 
 - 🎯Gusto.com Link:- https://sparkly-narwhal-1816c1.netlify.app/
 
